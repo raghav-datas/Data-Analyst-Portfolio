@@ -1,7 +1,6 @@
 # Data-Analyst-Portfolio
 
 ##  Hi, I'm RAGHAVENDRA PRAJAPATI – Aspiring Data Analyst
-
 Welcome to my Data Analyst portfolio!  
 I’m a passionate data enthusiast who loves turning raw data into actionable insights.  
 Here, you’ll find my resume, personal data projects, and skills that I’ve developed in data analysis.
