@@ -20,8 +20,13 @@ Here, you’ll find my resume, personal data projects, and skills that I’ve de
 ### 📊 [1. Sales Data Analysis using Excel](https://github.com/raghav-datas/Sales-Insights-Dashboard-MS-Excel)
 - Tools: **Excel**
 - Skills: Pivot Tables, Charts, Data Cleaning
-- Summary: Analyzed monthly sales data, found top-performing products, regions, and sales trends.
+- Summary: Analysed monthly sales data, found top-performing products, regions, and sales trends.
 - 📷 Screenshot:  
   ![Sales Excel](http://github.com/raghav-datas/Sales-Insights-Dashboard-MS-Excel/blob/main/Final%20sales%20Insights%20Dashboard.png)
 
-  
+
+  ### 📉 [2. Customer Sales Analysis using EDA](https://github.com/raghav-datas/Customer-Sales-Analysis-EDA)
+- Tools: **Python (Pandas, Matplotlib, Seaborn)**
+- Skills: EDA, Data Cleaning, Visualisation
+- Summary: Analysing customer sales data to generate insights that can help improve customer experience and increase sales. The data includes customer demographics, purchase behavior, and product information.
+
