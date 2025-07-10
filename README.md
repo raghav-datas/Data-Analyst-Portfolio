@@ -17,11 +17,11 @@ Here, you’ll find my resume, personal data projects, and skills that I’ve de
 
 ## 📂 Projects
 
-### 📊 [1. Sales Data Analysis using Excel](projects/sales-analysis-project/)
+### 📊 [1. Sales Data Analysis using Excel](https://github.com/raghav-datas/Sales-Insights-Dashboard-MS-Excel)
 - Tools: **Excel**
 - Skills: Pivot Tables, Charts, Data Cleaning
 - Summary: Analyzed monthly sales data, found top-performing products, regions, and sales trends.
 - 📷 Screenshot:  
-  ![Sales Excel](assets/sales_dashboard.png)
+  ![Sales Excel](http://github.com/raghav-datas/Sales-Insights-Dashboard-MS-Excel/blob/main/Final%20sales%20Insights%20Dashboard.png)
 
   
